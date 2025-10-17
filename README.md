@@ -37,12 +37,3 @@ Para rodar o sistema corretamente, o ambiente deve atender aos seguintes requisi
 
 
 ---
-
-## Instalação e Teste do Sistema
-
-Siga os passos abaixo para configurar e testar o sistema localmente:
-
-### 1. Clonar o Repositório
-```bash
-git clone [URL_DO_REPOSITORIO]
-cd Aula07
